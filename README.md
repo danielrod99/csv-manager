@@ -24,7 +24,7 @@ var people=[
 Use the function toCSV() to get your CSV file, using the separator you want, in this example we are using comma (,)
 
 ```javascript
-csv_manager.toCSV(people,',','people.csv');
+csv_manager.toCSV(people, ',' ,'people.csv');
 ```
 And your CSV file will be ready!
 
