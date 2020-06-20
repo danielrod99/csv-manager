@@ -18,7 +18,7 @@ Having the json array
 var people=[
     {name: 'Bruce', surname: 'Wayne'},
     {name: 'Clark', surname:'Kent'},
-    {name: 'Peter', surname: 'Parker}
+    {name: 'Peter', surname: 'Parker'}
 ]
 ```
 Use the function toCSV() to get your CSV file, using the separator you want, in this example we are using comma (,)
