@@ -1,5 +1,8 @@
 # CSV Manager 
 # Usage
+```
+npm install csv-manager
+```
 Import the package
 ```javascript
 const csv_manager = require('csv-manager');
